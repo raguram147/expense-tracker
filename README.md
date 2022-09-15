@@ -11,4 +11,3 @@ pip install foobar
 pip install foobar
 ```)
 
-[Youtube Video Tutorial Link](https://youtu.be/mhM-blTHBz8)
